@@ -1,2 +1,3 @@
 # ayush-code-
-This is my first rpoject
+This is my first github respository
+Author: Ayush
